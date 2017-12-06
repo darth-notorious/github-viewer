@@ -1,7 +1,5 @@
 # Github Viewer App
 
-[Demo](http://redux-minimal-app.catalin-luntraru.com)
-
 # Getting started
 
 1. Before you start working with redux-minimal, you first need to setup your environment. Make sure you have [NodeJs and Npm](https://nodejs.org/en/download/current/) installed.
